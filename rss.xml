@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Shop University]]></title>
+        <description><![CDATA[The Shop University]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 20:27:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Please welcome our new student from China!]]></title>
+            <description><![CDATA[<article><h1>Please welcome our new student from China!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd5f307d-cf8f-4eca-881c-1a7d73b286a6.png"></article>]]></description>
+            <link>undefinedplease-welcome-our-new-student-from-china/index.html</link>
+            <guid isPermaLink="false">30f349ae-439d-43f4-a947-1d2618640506</guid>
+            <pubDate>Wed, 30 Mar 2016 20:27:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
