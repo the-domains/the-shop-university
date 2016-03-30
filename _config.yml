@@ -1,28 +1,40 @@
-name: The Shop University
 favicon: null
-layout_spectrum: 0.961999001679942
-typography_spectrum: 0.8755372138693929
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: The Shop University
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.14371168008074164
-  lightness: 0.28306276840157807
-  saturation: 0.44072177540510893
-  rhythmicContrast: 0.2523367437534034
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4407217754051089
+  brandStrength: 0.1437116800807416
+  lightness: 0.2830627684015781
+  brandColors:
+    - '#FDFDF8'
+    - '#133B55'
+    - '#AAADB3'
+    - '#020202'
+    - '#666664'
+  rhythmicContrast: 0.2523367437534034
+typography_spectrum: 0.7688172
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
